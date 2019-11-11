@@ -30,6 +30,7 @@
 &lt;h3 id=&#34;ordenação&#34;&gt;Ordenação&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://joaoarthurbm.github.io/eda/posts/insertion-sort&#34;&gt;Insertion Sort&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://joaoarthurbm.github.io/eda/posts/ordenacao-linear&#34;&gt;Ordenação Linear (Counting Sort)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -49,7 +50,43 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://joaoarthurbm.github.io/eda/posts/bst&#34;&gt;Árvores Binárias de Pesquisa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;//joaoarthurbm.github.io/eda/posts/heap&#34;&gt;Heap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+       </item>
+       
+       <item>
+         <title>Contribua</title>
+         <link>https://joaoarthurbm.github.io/eda/contribua/</link>
+         <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+         
+         <guid>https://joaoarthurbm.github.io/eda/contribua/</guid>
+         <description>
+
+&lt;h2 id=&#34;melhoria-no-conteúdo-do-material&#34;&gt;Melhoria no conteúdo do material&lt;/h2&gt;
+
+&lt;p&gt;Por enquanto eu vou me dar o direito de não aceitar materiais feitos totalmente
+por terceiros porque acredito que os materiais representam a minha narrativa sobre
+o assunto abordado. No entanto, revisões e correções são muito bem-vindas. Portanto, se você encontrou um erro ou algum parágrafo difícil de entender,
+basta &lt;a class=&#34;external&#34; href=&#34;https://github.com/joaoarthurbm/eda/issues&#34;&gt;abrir uma issue&lt;/a&gt; ou fazer um &lt;em&gt;Pull Request&lt;/em&gt; no markdown do material.&lt;/p&gt;
+
+&lt;aside&gt;&lt;i class=&#34;fab fa-github fa-lg&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; &lt;a href=&#34;https://github.com/joaoarthurbm/eda/tree/master/content/posts&#34;&gt; &lt;font color=&#34;#1980e6&#34;&gt; &lt;b&gt;Repositório dos materiais.&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;melhoria-nas-implementações&#34;&gt;Melhoria nas implementações&lt;/h2&gt;
+
+&lt;p&gt;Contribuições esperadas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cadastro de &lt;em&gt;issues&lt;/em&gt; no repositório;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bugfix&lt;/em&gt; no código das estruturas;&lt;/li&gt;
+&lt;li&gt;Melhoria no código das estruturas;&lt;/li&gt;
+&lt;li&gt;Adição de testes;&lt;/li&gt;
+&lt;li&gt;Documentação do código.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;aside&gt;&lt;i class=&#34;fab fa-github fa-lg&#34; aria-hidden=&#34;true&#34;&gt; &lt;/i&gt; &lt;a href=&#34;https://github.com/joaoarthurbm/eda-implementacoes/&#34;&gt; &lt;font color=&#34;#1980e6&#34;&gt; &lt;b&gt;Repositório das estruturas implementadas.&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/aside&gt;
 </description>
        </item>
        
